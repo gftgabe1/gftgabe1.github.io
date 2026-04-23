@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# Gabriel Teles and [Partner Name]
+# Gabriel Teles and Nathalie Marti
 
 Welcome to our COMP110 personal site. This page is a quick home page for links and a short intro.
 
